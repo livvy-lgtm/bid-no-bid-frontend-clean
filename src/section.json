@@ -1,0 +1,722 @@
+[
+  {
+    "section": "01",
+    "title": "RELATIONSHIP FACTORS",
+    "description": "‘Relationship’ is a broad term, which means different things to different people. Even two organisations that know each other may each have an entirely different view of the relationship between them. There is little doubt though, having some ‘relationship’ with the customer is generally a good thing when bidding and may be a key factor in deciding whether to invest in writing a bid. Not having a relationship is not necessarily a showstopper because it can be balanced out by other factors but it is a consideration that has a significant influence on the outcome of this app.",
+    "questions": [
+      {
+        "title": "CLASSIFICATION OF YOUR RELATIONSHIP WITH THE CUSTOMER",
+        "answerOptions": [
+          {
+            "title": "There is no definable relationship between you and the customer",
+            "score": 5
+          },
+          {
+            "title": "There have been limited communications such as an email exchange or telephone conversations",
+            "score": 10
+          },
+          {
+            "title": "There has been a business development meeting and various communications",
+            "score": 15
+          },
+          {
+            "title": "There have been several meetings, multiple communications. This may include a pitch presentation",
+            "score": 20
+          },
+          {
+            "title": "There have been multiple interactions including, possibly a proof of concept, demonstration or product/service trial",
+            "score": 30
+          },
+          {
+            "title": "You have had multi-layered interactions and are considered an influencer in the customer's thinking",
+            "score": 40
+          }
+        ]
+      },
+      {
+        "title": "DO YOU BELIEVE THAT RELATIONSHIP WILL BE A FACTOR IN THE EVALUATION PROCESS?",
+        "answerOptions": [
+          {
+            "title": "Yes",
+            "score": 5
+          },
+          {
+            "title": "No",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "IF YOU HAVE NO RELATIONSHIP WITH THE CUSTOMER - HOW AWARE OF YOUR BRAND/MARKET PRESENCE ARE THEY?",
+        "answerOptions": [
+          {
+            "title": "Not very aware",
+            "score": 5
+          },
+          {
+            "title": "Somewhat aware",
+            "score": 10
+          },
+          {
+            "title": "Very aware",
+            "score": 20
+          },
+          {
+            "title": "Not sure",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "RELATIONSHIP BETWEEN THE CUSTOMER AND THE INCUMBENT SUPPLIER",
+        "answerOptions": [
+          {
+            "title": "You have no knowledge or understanding of the relationship ",
+            "score": 5
+          },
+          {
+            "title": "Your limited understanding is that the relationship is a good one",
+            "score": 5
+          },
+          {
+            "title": "Your limited understanding is that the relationship is average or poor",
+            "score": 20
+          },
+          {
+            "title": "You know that the customer has a will to change and has no specific allegiance to the incumbent",
+            "score": 30
+          },
+          {
+            "title": "You have a very good understanding of the relationship and you know the customer will change",
+            "score": 40
+          }
+        ]
+      },
+      {
+        "title": "YOUR UNDERSTANDING OF THE CUSTOMER`S NEEDS AND OBJECTIVES",
+        "answerOptions": [
+          {
+            "title": "Your understanding is limited to what the ITT defines as the needs/objectives",
+            "score": 10
+          },
+          {
+            "title": "You can add to the needs/objectives defined in the ITT with deeper insight gained through your capture/BD work",
+            "score": 20
+          }
+        ]
+      },
+      {
+        "title": "CULTURAL FIT BETWEEN YOUR BUSINESS AND THAT OF THE CUSTOMER",
+        "answerOptions": [
+          {
+            "title": "You are not aware of any specific cultural alignment",
+            "score": 0
+          },
+          {
+            "title": "There is a nominal fit - you share similar values with a customer",
+            "score": 5
+          },
+          {
+            "title": "There is an good alignment between your declared vision and values, and those of the customer",
+            "score": 10
+          },
+          {
+            "title": "You can demonstrate an excellent cultural alignment - sharing vision, values and you are able to demonstrate clear empathy with the customer",
+            "score": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "02",
+    "title": "SOLUTION FACTORS",
+    "description": "Naturally, it is important that the service or product you are selling in your bid closely aligns with the specifications, needs, and objectives defined by the customer. As important is that you can express the solution in terms of the clear value it will deliver.",
+    "questions": [
+      {
+        "title": "DOES THE SERVICE OR PRODUCT YOU PROPOSE TO OFFER MEET THE CUSTOMER'S NEEDS/OBJECTIVES",
+        "answerOptions": [
+          {
+            "title": "Your product/service offer meets some of their needs/objectives",
+            "score": 10
+          },
+          {
+            "title": "Your product/service offer meets most of their needs/objectives",
+            "score": 20
+          },
+          {
+            "title": "Your product/service offer meets 100% of their needs/objectives",
+            "score": 40
+          },
+          {
+            "title": "Your product service offer meets 100% of their needs/objectives and delivers substantially more",
+            "score": 50
+          },
+          {
+            "title": "You are not sure, at this stage, if your product/service meets their needs/objectives",
+            "score": 10
+          },
+          {
+            "title": "You do not have the right solution to meet their needs/objectives, as they have described them ITT/RFP",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "WILL THEY RECOGNISE THAT YOUR SOLUTION IS EXCEPTIONAL?",
+        "answerOptions": [
+          {
+            "title": "Yes",
+            "score": 10
+          },
+          {
+            "title": "No",
+            "score": 5
+          },
+          {
+            "title": "Not sure",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "FEATURES V. BENEFITS",
+        "answerOptions": [
+          {
+            "title": "Your service/product solution is only described in terms of features (i.e. you cannot define a specific and quantifiable value).",
+            "score": 5
+          },
+          {
+            "title": "There are clear beneficial (value) outcomes that you can link to the features of your solution",
+            "score": 20
+          },
+          {
+            "title": "The benefits (value outcomes) of your solution are likely to be substantially more than those of your competitors",
+            "score": 30
+          },
+          {
+            "title": "You are unable to answer this question",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "QUANTIFICATION OF BENEFITS AS A VALUE",
+        "answerOptions": [
+          {
+            "title": "You can quantify some of the value they will receive from your solution.",
+            "score": 10
+          },
+          {
+            "title": "You can quantify most of the value they will receive from your solution.",
+            "score": 10
+          },
+          {
+            "title": "You can quantify all the value they will receive from your solution.",
+            "score": 20
+          },
+          {
+            "title": "You are unable to offer any quantification of value, with any degree of certaintanty",
+            "score": 5
+          },
+          {
+            "title": "You are unable to answer this question",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "COMPELLING EVIDENCE OF VALUE AND PERFORMANCE CLAIMS",
+        "answerOptions": [
+          {
+            "title": "You have reasonable evidence to support some of the claims you will be making",
+            "score": 5
+          },
+          {
+            "title": "You have reasonable evidence to support most (or all) of the claims you will be making",
+            "score": 10
+          },
+          {
+            "title": "You have exceptional evidence to support some of the claims you will be making",
+            "score": 20
+          },
+          {
+            "title": "You have exceptional evidence e.g. independently assessed to support most (or all) of the claims you will be making",
+            "score": 30
+          },
+          {
+            "title": "You have no evidence to offer.",
+            "score": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "03",
+    "title": "COMMERCIAL FACTORS",
+    "description": "The ‘price’ you are going to charge will be the key factor for the customer when they are evaluating your bid. It must therefore make sense in four critical areas: a) your margin and sustainability of service, b) matching what the customer will expect to pay for the product or service, c) that it is competitive when pitched against your competitors, and d) that it reflects where the ‘market’ is.",
+    "questions": [
+      {
+        "title": "CAN YOU PRICE YOUR SERVICES/PRODUCTS COMPETITIVELY AND STILL MAKE A GROSS MARGIN THAT WILL SUSTAIN THE SERVICE?",
+        "answerOptions": [
+          {
+            "title": "Although our pricing is likely to mean we will make a small loss at the start of the contract, we anticipate an improvement in the gross margin as the contract matures.",
+            "score": 20
+          },
+          {
+            "title": "Our intended price structure will mean we break even initially and the gross margin will improve with the cost efficiencies we intend to introduce.",
+            "score": 30
+          },
+          {
+            "title": "Yes, the pricing is likely to deliver a good gross margin on the revenue generated.",
+            "score": 40
+          },
+          {
+            "title": "We are really not sure what the gross margin is going to be. It is too difficult to accurately predict.",
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "IF YOU WIN, WILL THE PRICE YOU CHARGE RETURN YOUR COMPANY AN ACCEPTABLE NET MARGIN?",
+        "answerOptions": [
+          {
+            "title": "Yes",
+            "score": 20
+          },
+          {
+            "title": "No",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "WHERE DOES THE PRICE OF YOUR PRODUCT OR SERVICE SIT COMPARED TO THE MARKETPLACE AVERAGE?",
+        "answerOptions": [
+          {
+            "title": "We are typically below market average.",
+            "score": 30
+          },
+          {
+            "title": "We are typically at or near the market average.",
+            "score": 30
+          },
+          {
+            "title": "We are typically above the market average.",
+            "score": 20
+          },
+          {
+            "title": "Not sure",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "HOW DOES YOUR PRICING COMPARE TO YOUR NEAREST 'LIKE FOR LIKE' COMPETITOR(S)?",
+        "answerOptions": [
+          {
+            "title": "We are always the most expensive.",
+            "score": 10
+          },
+          {
+            "title": "We are sometimes the most expensive.",
+            "score": 10
+          },
+          {
+            "title": "We are somewhere in the middle.",
+            "score": 30
+          },
+          {
+            "title": "We are sometimes the most competitive.",
+            "score": 30
+          },
+          {
+            "title": "We are always the most competitive.",
+            "score": 40
+          },
+          {
+            "title": "Not sure",
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "DO YOU KNOW WHAT THE CUSTOMER WILL CONSIDER A 'FAIR PRICE'?",
+        "answerOptions": [
+          {
+            "title": "Yes.",
+            "score": 10
+          },
+          {
+            "title": "No.",
+            "score": 5
+          },
+          {
+            "title": "Not sure.",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "OVERALL, HOW CONFIDENT ARE YOU THAT YOU  ARE GOING TO PRICE THIS: A) COMPETITIVELY, B) SUSTAINABLY, C) PLAUSIBLY ('PLAUSIBLE' MEANS THAT YOUR SERVICE OFFER IS COMMENSURATE WITH THE PRICE QUOTED)?",
+        "answerOptions": [
+          {
+            "title": "Very sure",
+            "score": 50
+          },
+          {
+            "title": "Quite Sure.",
+            "score": 30
+          },
+          {
+            "title": "Undecided.",
+            "score": 10
+          },
+          {
+            "title": "Not at all sure.",
+            "score": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "04",
+    "title": "COMPETITION FACTORS",
+    "description": "Understanding who your competition is and what their strategy is likely to be could be a critical aspect of the way in which you plan and write your bid. You will want to ensure you are neutralising their strengths and capitalising on areas where they have an underdeveloped or inadequate solution.",
+    "questions": [
+      {
+        "title": "DO YOU KNOW WHO YOU WILL BE COMPETING WITH",
+        "answerOptions": [
+          {
+            "title": "You know who your competitors will be and you have a good understanding of their likely strategy.",
+            "score": 50
+          },
+          {
+            "title": "You can reasonably predict your competition and have a reasonable understanding of their likely strategy.",
+            "score": 30
+          },
+          {
+            "title": "You are unsure of your competitors and therefore cannot predict their strategy.",
+            "score": 20
+          },
+          {
+            "title": "You do not know who you will be up against. You do not know the strategy of any competitors.",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "ARE YOU CONSIDERED A KEY PLAYER IN YOUR MARKETPLACE?",
+        "answerOptions": [
+          {
+            "title": "Yes. We are well known and have many similar customers.",
+            "score": 30
+          },
+          {
+            "title": "Yes. We are well known, have many similar customers, and we are ranked in the topmost tier of our market.",
+            "score": 20
+          },
+          {
+            "title": "Although reasonably well known, we are a middle-market player.",
+            "score": 20
+          },
+          {
+            "title": "We are not well known and would place ourselves in the lower half of the market.",
+            "score": 10
+          },
+          {
+            "title": "We are a new entrant into the market.",
+            "score": 10
+          }
+        ]
+      },
+      {
+        "title": "INNOVATION",
+        "answerOptions": [
+          {
+            "title": "You will be proposing many new and innovative ways of doing things, which will lead to significant benefits.",
+            "score": 20
+          },
+          {
+            "title": "You will be proposing some innovation that will, overall, improve upon current ways of doing things.",
+            "score": 30
+          },
+          {
+            "title": "You will be proposing a service which, overall, reflects the service they currently receive.",
+            "score": 15
+          },
+          {
+            "title": "You are not sure if your proposal represent something different to what the customer currently receives.",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "HOW CONFIDENT ARE YOU THAT YOU CAN MATCH YOUR COMPETITION IN THE SOLUTION YOU WILL PROPOSE?",
+        "answerOptions": [
+          {
+            "title": "Very confident.",
+            "score": 50
+          },
+          {
+            "title": "Somewhat confident.",
+            "score": 40
+          },
+          {
+            "title": "Marginally confident.",
+            "score": 30
+          },
+          {
+            "title": "Somewhat unconfident.",
+            "score": 20
+          },
+          {
+            "title": "Very unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "HOW CONFIDENT ARE YOU THAT YOU CAN MATCH YOUR COMPETITION IN THE PRICE YOU WILL PROPOSE?",
+        "answerOptions": [
+          {
+            "title": "Very confident.",
+            "score": 50
+          },
+          {
+            "title": "Somewhat confident.",
+            "score": 40
+          },
+          {
+            "title": "Marginally confident.",
+            "score": 30
+          },
+          {
+            "title": "Somewhat unconfident.",
+            "score": 20
+          },
+          {
+            "title": "Very unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "HOW CONFIDENT ARE YOU THAT YOU CAN MATCH YOUR COMPETITION IN ALL OTHER AREAS OF THE BID?",
+        "answerOptions": [
+          {
+            "title": "Very confident.",
+            "score": 50
+          },
+          {
+            "title": "Somewhat confident.",
+            "score": 40
+          },
+          {
+            "title": "Marginally confident.",
+            "score": 30
+          },
+          {
+            "title": "Somewhat unconfident.",
+            "score": 20
+          },
+          {
+            "title": "Very unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "05",
+    "title": "GENERAL ASSESSMENT",
+    "description": "These final questions drive algorithms that act as checks and balances for previously given answers. Once more, please be thoughtful in the responses you give.",
+    "questions": [
+      {
+        "title": "FOR OTHER BIDS OF SIMILAR SIZE, SERVICE, AND SCOPE, WHAT HAS BEEN YOUR WIN RATE OVER THE PAST TWELVE MONTHS?",
+        "answerOptions": [
+          {
+            "title": "Between 76% and 100%",
+            "score": 50
+          },
+          {
+            "title": "Between 51% and 75%",
+            "score": 50
+          },
+          {
+            "title": "Between 26% and 50%",
+            "score": 50
+          },
+          {
+            "title": "Between 11% and 25%",
+            "score": 20
+          },
+          {
+            "title": "Between 5% and 10%",
+            "score": 10
+          },
+          {
+            "title": "Lower than 5%",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "DO YOU FEEL YOU HAVE BEEN GIVEN ENOUGH TIME TO PREPARE THIS BID?",
+        "answerOptions": [
+          {
+            "title": "Yes. There is a good lead time to the submission deadline.",
+            "score": 40
+          },
+          {
+            "title": "The lead time to submission is shorter than we would like, but we can do it.",
+            "score": 30
+          },
+          {
+            "title": "The lead time to submission is very short and we will struggle to submit anything other than a basic bid.",
+            "score": 20
+          },
+          {
+            "title": "No. There is too little time to deliver the bid we would want to.",
+            "score": 10
+          },
+          {
+            "title": "Although the lead time to submission is good, we are late in either receiving the ITT/RFP, or acting upon it.",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "IN GENERAL, WHAT PERCENTAGE OF THE REQUIREMENTS OF THE ITT/RFP ARE YOU FULLY COMPLIANT WITH?",
+        "answerOptions": [
+          {
+            "title": "Between 76% and 100%",
+            "score": 50
+          },
+          {
+            "title": "Between 51% and 75%",
+            "score": 40
+          },
+          {
+            "title": "Between 26% and 50%",
+            "score": 10
+          },
+          {
+            "title": "Between 11% and 25%",
+            "score": 0
+          },
+          {
+            "title": "Between 5% and 10%",
+            "score": 0
+          },
+          {
+            "title": "Lower than 5%",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "OVERALL, HOW CONFIDENT ARE YOU THAT YOU CAN PLAN AND WRITE A COMPELLING BID?",
+        "answerOptions": [
+          {
+            "title": "Very confident.",
+            "score": 40
+          },
+          {
+            "title": "Quite confident.",
+            "score": 30
+          },
+          {
+            "title": "Marginally confident.",
+            "score": 20
+          },
+          {
+            "title": "Somewhat unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Very unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "HOW CONFIDENT ARE YOU THAT YOU HAVE TO CORRECT RESOURCES TO DELIVER THE BID PROJECT?",
+        "answerOptions": [
+          {
+            "title": "Very confident.",
+            "score": 50
+          },
+          {
+            "title": "Somewhat confident.",
+            "score": 40
+          },
+          {
+            "title": "Marginally confident.",
+            "score": 30
+          },
+          {
+            "title": "Somewhat unconfident.",
+            "score": 20
+          },
+          {
+            "title": "Very unconfident.",
+            "score": 10
+          },
+          {
+            "title": "Not sure",
+            "score": 0
+          }
+        ]
+      },
+      {
+        "title": "FINALLY, HOW IMPORTANT IS THIS BID TO YOUR BUSINESS?",
+        "answerOptions": [
+          {
+            "title": "It is 'mission critical' to us. Of the highest strategic importance.",
+            "score": 50
+          },
+          {
+            "title": "It is important to win it and is exactly the kind of business we want.",
+            "score": 40
+          },
+          {
+            "title": "We want to win but it will not affect us if we do not win.",
+            "score": 20
+          },
+          {
+            "title": "Not critical. We have not factored the win into our forecasts.",
+            "score": 0
+          }
+        ]
+      }
+    ]
+  }
+]

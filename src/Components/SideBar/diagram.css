@@ -1,0 +1,108 @@
+.diagram-body{
+    position: relative;
+    width: 264px;
+    min-width: 264px;
+    min-height: 220px;
+}
+.red-ellipse{
+    position: absolute;
+    top: 42px;
+    left: 30px;
+}
+.orange-ellipse{
+    position: absolute;
+    top: 8px;
+    left: 67px;
+}
+.green-ellipse{
+    position: absolute;
+    top: 42px;
+    right: 33px;
+}
+.arrow{
+    position: absolute;
+    left: 30px;
+    bottom: 46px;
+    transform-origin: 89.3% 67.7%;
+    transition: 1s;
+    border-radius: 4px;
+}
+.text-bid{
+    width: 16px;
+    height: 19px;
+    position: absolute;
+    top: 97px;
+    right: 38px;
+}
+.text-with{
+    width: 96px;
+    height: 29px;
+    position: absolute;
+    top: 11px;
+    left: 83px;
+}
+.text-noBid{
+    width: 16px;
+    height: 33px;
+    position: absolute;
+    top: 88px;
+    left: 36px;
+
+}
+.status{
+    position: absolute;
+    left: 85px;
+    top: 81px;
+    text-align: center;
+    transition: 1s;
+}
+.status-replace{
+    position: absolute;
+    left: 85px;
+    top: 173px;
+    text-align: center;
+    transition: 1s;
+}
+.status .status-title {
+    width: 90px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+.status .red-title{
+    color: #FC4B4E;
+}
+.status .orange-title{
+    color: #FD9F28;
+}
+.status .green-title{
+    color: #28CD6A;
+}
+.your-status{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: capitalize;
+    color: #8492A5;
+}
+
+.status-replace .status-title{
+    width: 90px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+    text-transform: capitalize;
+}
+.status-replace .red-title{
+    color: #FC4B4E;
+}
+.status-replace .orange-title{
+    color: #FD9F28;
+}
+.status-replace .green-title{
+    color: #28CD6A;
+}
