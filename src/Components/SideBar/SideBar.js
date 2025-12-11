@@ -25,22 +25,22 @@ ${shareUrl}
 I’ve found it helpful when reviewing early opportunities.
         `.trim();
 
-        // 1) Try native share (mobile / modern browsers)
+        // 1) Try native share (for mobile devices / modern browsers)
         if (navigator.share) {
             try {
                 await navigator.share({
-                    title: "Bid / No Bid App",
+                    title: subject,
                     text: body,
-                    url: shareUrl,
+                    url: shareUrl
                 });
                 return;
             } catch (err) {
                 console.error("Web Share failed:", err);
-                // fall through to email
+                // fall through to email fallback
             }
         }
 
-        // 2) Fallback – open email
+        // 2) Fallback – email using mailto
         const mailto = `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         window.location.href = mailto;
     };
@@ -52,9 +52,9 @@ I’ve found it helpful when reviewing early opportunities.
                     <div>Overall</div>
                     <button onClick={handleShare}>Share this app</button>
                 </div>
-                <Diagram
-                    answers={answers}
-                />
+
+                <Diagram answers={answers} />
+
                 <div className="side-bar-cumulative-score">
                     <div className="cumulative-score">
                         <div className="cumulative-score-value">
@@ -64,6 +64,7 @@ I’ve found it helpful when reviewing early opportunities.
                             Cumulative Max Score
                         </div>
                     </div>
+
                     <div className="cumulative-score">
                         <div className="cumulative-score-value">
                             {getCumulativeScore(answers).value}
@@ -72,6 +73,7 @@ I’ve found it helpful when reviewing early opportunities.
                             Cumulative Score
                         </div>
                     </div>
+
                     <div className="cumulative-score">
                         <div className="cumulative-score-value">
                             {getCumulativeScore(answers).percent}%
@@ -82,6 +84,7 @@ I’ve found it helpful when reviewing early opportunities.
                     </div>
                 </div>
             </div>
+
             {showMessage && <SuccessMessage />}
         </>
     );
